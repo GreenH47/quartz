@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title:  FIT STUDY NOTE.
 enableToc: false
 ---
 
@@ -19,6 +19,11 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
 If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+
+![](notes/images/Pasted%20image%2020221030111103.png)
+
+[Get Started](#Get%20Started)
+
 
 ### Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
